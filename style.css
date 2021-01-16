@@ -1,0 +1,38 @@
+*{  
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.card-deck{
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.card:hover{
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.4);
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.4);
+     box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.4);
+
+}
+.card-img-top{
+    width: 100px;
+    height: 100px;  
+}
+
+.btn{
+    padding-top:12% ;
+    text-align: center;
+    position: relative;
+    left: 600px;
+    background-color: yellow;
+    
+    
+     }
+    .btn:hover{
+        background-color: black;
+        
+    }
+  
